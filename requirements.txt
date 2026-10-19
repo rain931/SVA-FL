@@ -1,0 +1,6 @@
+# Python 3.11 or 3.12
+numpy>=1.26.4,<2.3
+PyNaCl>=1.6.2,<2
+pqcrypto==0.4.0
+pycryptodomex>=3.20,<4
+numba>=0.61.2,<0.62
